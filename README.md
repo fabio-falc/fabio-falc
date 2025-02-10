@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 👋 Hi, I'm Fabio<br>🎓 Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas** na **UNIFACS**.  <br>🚀 Meu foco é na área de **Backend Development**, onde estou aprimorando minhas habilidades em _**Python**_ e explorando **algoritmos** e **estruturas de dados**.  <br>🔧 Tenho interesse em construir soluções escaláveis e eficientes, utilizando **APIs** e **banco de dados**.  <br>🌱 Busco aplicar o que aprendo tanto nos estudos quanto em projetos práticos para evoluir constantemente.<br><br>## Vamos nos conectar?<br>🔗 [LinkedIn](https://www.linkedin.com/in/fabio-fsj/)  <br>📧 [Email](fabio-falc@hotmail.com)</p>
+<p align="left">- 👋 Hi, I'm Fabio<br>🎓 Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas** na **UNIFACS**.  <br>🚀 Meu foco é na área de **Backend Development**, onde estou aprimorando minhas habilidades em **Python** e explorando **algoritmos** e **estruturas de dados**.  <br>🔧 Tenho interesse em construir soluções escaláveis e eficientes, utilizando **APIs** e **banco de dados**.  <br>🌱 Busco aplicar o que aprendo tanto nos estudos quanto em projetos práticos para evoluir constantemente.<br><br>## Vamos nos conectar?<br>🔗 [LinkedIn](https://www.linkedin.com/in/fabio-fsj/)  <br>📧 [Email](fabio-falc@hotmail.com)</p>
 
 ###
 
